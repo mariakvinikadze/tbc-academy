@@ -1,3 +1,6 @@
+## Live Version
+
+You can view the live version of the project here: [tbcacademy live](https://tbc-academy.netlify.app/)
 
 ## Getting Started
 
